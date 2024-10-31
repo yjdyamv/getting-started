@@ -729,5 +729,7 @@ alias c++='c++-14'
 - `WallpaperEngine`：可以找到 Steam 创意工坊上的很多壁纸。建议从 Steam 购买并下载。
 - `OBS`：一款免费录屏软件，适配多平台。有虚拟摄像头等功能。官网：[Open Broadcaster Software | OBS (obsproject.com)](https://obsproject.com/)
 - `Typora`：一款轻量的 Markdown 文件编辑器。支持部分 LaTeX 语法和全功能 Markdown 语法。收费。官网：[Typora 官方中文站 (typoraio.cn)](https://typoraio.cn/)。
+- `图吧工具箱`：一款绿色的工具箱，集成了许多实用工具，同时适用于硬件检测。官网：https://tbtool.cn
+
 
 欢迎补充更多好用的软件！
